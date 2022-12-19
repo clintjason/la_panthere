@@ -6,9 +6,16 @@ The objectives was to update an existing website inorder to optimize it's SEO, A
 
 Link to the project is: https://clintjason.github.io/la_panthere/
 
-## Desktop Optimization Results
-![The Desktop result](https://github.com/clintjason/la_panthere/blob/main/img/desktop_results.png?raw=true)
+## Home Page - Desktop Optimization Results
+![The Deskto Home Page Result](https://github.com/clintjason/la_panthere/blob/main/img/desktop_results.png?raw=true)
 
-## This Mock-Up for Phone
-![The Phone mockup](https://github.com/clintjason/reservia/blob/main/img/mobile_result.png?raw=true))
+## Contact Page - Desktop Optimization Results
+![The Desktop Contact Page Result](https://github.com/clintjason/reservia/blob/main/img/contact_result.png?raw=true)
+
+
+## Home Page - Mobile Optimization Results
+![The Mobile Home Page Result](https://github.com/clintjason/reservia/blob/main/img/mobile_home.png?raw=true)
+
+## Contact Page - Mobile Optimization Results
+![The Mobile Home Page Result](https://github.com/clintjason/reservia/blob/main/img/mobile_contact.png?raw=true)
 
